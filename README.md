@@ -7,6 +7,8 @@ _ 🚀 I´m currently learning: JavaScript, React JS and Node JS
 - 👯 I’m looking to collaborate with other content creators
 - 📣 We can talk in: English or Spanish
 
+<br />
+<br />
 
 ### Connect with me:
 
