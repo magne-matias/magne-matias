@@ -12,13 +12,11 @@ _ 🚀 I´m currently learning: JavaScript, React JS and Node JS
 
 ### Connect with me:
 
-[<img align="left" alt="magne-matias | Twitter" width="22px" src="https://twitter.com/MatyyMagne" />][twitter]
-[<img align="left" alt="magne-matias | LinkedIn" width="22px" src="https://www.linkedin.com/in/matias-magne-a5998b1b1/" />][linkedin]
-[<img align="left" alt="magne-matias| Instagram" width="22px" src="https://www.instagram.com/mati.magne/" />][instagram]
- 
-<br />
-<br />
+* ✨ Twitter: https://twitter.com/MatyyMagne
+* ✨ Instagram: https://www.instagram.com/mati.magne/
+* ✨ Linkedin: https://www.linkedin.com/in/matias-magne-a5998b1b1/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magne-matias)](https://github.com/magne-matias/github-readme-stats)
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magne-matias&layout=compact)](https://github.com/magne-matias/github-readme-stats)
