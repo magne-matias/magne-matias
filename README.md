@@ -2,7 +2,7 @@
 
 ## I'm a Engineering electronic student at UTN and Fullstack Developer jr !!
 
-_ 🚀 I´m currently learning: JavaScript, React JS and Node JS.
+_ 🚀 I´m coding in: JavaScript, React JS and Node JS.
 - 🌱 Learn something new every day.
 - 👉 I'm currently studying Data Analytics & Data Science.
 - 📣 We can talk in: English or Spanish.
