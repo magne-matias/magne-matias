@@ -1,6 +1,6 @@
 ### Hi there, I´m Matias  👋
 
-## I'm a Engineering electronic student at UTN and Fullstack Developer jr !!
+## I'm a Engineering electronic student at UTN !!
 
 _ 🚀 I´m programming in: JavaScript, React JS and Node JS.
 - 🌱 Learn something new every day.
