@@ -2,7 +2,6 @@
 
 ## I'm a Engineering electronic student at UTN !!
 
-_ 🚀 I´m programming in: JavaScript, React JS and Node JS.
 - 🌱 Learn something new every day.
 - 👉 I'm currently studying Data Analytics & Data Science.
 - 📣 We can talk in: English or Spanish.
@@ -13,7 +12,6 @@ _ 🚀 I´m programming in: JavaScript, React JS and Node JS.
 ### Connect with me:
 
 * ✨ Twitter: https://twitter.com/MatyyMagne
-* ✨ Instagram: https://www.instagram.com/mati.magne/
 * ✨ Linkedin: https://www.linkedin.com/in/matias-magne-a5998b1b1/
 
 <br />
